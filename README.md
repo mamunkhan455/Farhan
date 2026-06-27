@@ -5,3 +5,4 @@ password generate
 location track
 mobile hack
 video
+camera hack
